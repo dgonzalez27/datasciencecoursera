@@ -1,0 +1,5 @@
+getwd()
+dir()
+read ('HelloWorld.md')
+open (HelloWorld.md)
+getwd()
